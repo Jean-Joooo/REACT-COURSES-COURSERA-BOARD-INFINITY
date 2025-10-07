@@ -1,4 +1,4 @@
-# Coursera | Board Infinity courses: TIC-TAC-TOE Game
+## Coursera | Board Infinity courses: TIC-TAC-TOE Game
 
 That's a 2 players TIC-TAC-TOE Game, I crafted it during this course
 
